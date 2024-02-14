@@ -1,7 +1,7 @@
 PiOS License
 
 Copyright (C) <2023> <Gökhan Korkmaz>
-- powered by TeamCalm -
+             - powered by TeamCalm -
 
 
 Permission is hereby granted by the application software developer (“Gökhan Korkmaz”), free
