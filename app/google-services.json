@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "952615355581",
+    "project_id": "memegenerator-bc2e0",
+    "storage_bucket": "memegenerator-bc2e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952615355581:android:8fa9e2038dc13207ff63d4",
+        "android_client_info": {
+          "package_name": "com.example.memegeneratorabschlussprojektgoekhankorkmaz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952615355581-j6p6rtv4955u9edsa96eeoa9sgq4ks6l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqHnbFM_OBUICuRBj1A-Wz0cPh1spxNas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952615355581-j6p6rtv4955u9edsa96eeoa9sgq4ks6l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952615355581:android:cd2f81a8b1b89be9ff63d4",
+        "android_client_info": {
+          "package_name": "de.syntax_institut.MemeGenerator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952615355581-j6p6rtv4955u9edsa96eeoa9sgq4ks6l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqHnbFM_OBUICuRBj1A-Wz0cPh1spxNas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952615355581-j6p6rtv4955u9edsa96eeoa9sgq4ks6l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952615355581:android:0beeef9171292f3aff63d4",
+        "android_client_info": {
+          "package_name": "de.syntax_institut.funappsvorlage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952615355581-j6p6rtv4955u9edsa96eeoa9sgq4ks6l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqHnbFM_OBUICuRBj1A-Wz0cPh1spxNas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952615355581-j6p6rtv4955u9edsa96eeoa9sgq4ks6l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
